@@ -8,4 +8,5 @@ if x >= 128{
 //se não, ela volta para o angulo normal
 else image_angle = 0
 
+//se sair da tela irá destruir a instancia
 if y > room_height instance_destroy()

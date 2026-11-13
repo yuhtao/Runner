@@ -1,0 +1,1 @@
+pos = choose(room_width -27, x)
