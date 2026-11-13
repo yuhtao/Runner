@@ -2,4 +2,4 @@
 randomise()
 
 //iniciando ativando o alarme de spawn de fodds
-alarm[2] = 60
+alarm[2] = 120

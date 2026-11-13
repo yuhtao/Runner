@@ -13,3 +13,10 @@ else {
 	image_yscale = -1
 }
 
+if global.dificuldade = 2{
+	vel_y = 1.5
+}
+else if global.dificuldade = 3{
+	vel_y = 1.9
+}
+

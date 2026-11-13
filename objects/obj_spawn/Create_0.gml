@@ -1,4 +1,5 @@
 //inicia o alarme para o spawm de mobs
-alarm[0] = 60
+tempo = 60
+alarm[0] = tempo
 
 //faz que o random seja realmente aleatorio
