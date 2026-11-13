@@ -43,6 +43,8 @@
     {"id":{"name":"obj_spawn","path":"objects/obj_spawn/obj_spawn.yy",},},
     {"id":{"name":"mp_jogo","path":"rooms/mp_jogo/mp_jogo.yy",},},
     {"id":{"name":"src_global","path":"scripts/src_global/src_global.yy",},},
+    {"id":{"name":"snd_bgm","path":"sounds/snd_bgm/snd_bgm.yy",},},
+    {"id":{"name":"snd_pegar","path":"sounds/snd_pegar/snd_pegar.yy",},},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
     {"id":{"name":"spr_batata","path":"sprites/spr_batata/spr_batata.yy",},},
     {"id":{"name":"spr_burgar","path":"sprites/spr_burgar/spr_burgar.yy",},},

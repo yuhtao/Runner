@@ -1,0 +1,1 @@
+audio_play_sound(snd_bgm, 10, 1, 1, 0, 1)
