@@ -35,9 +35,12 @@
   },
   "name":"Runner",
   "resources":[
+    {"id":{"name":"obj_clt","path":"objects/obj_clt/obj_clt.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"obj_spawn","path":"objects/obj_spawn/obj_spawn.yy",},},
     {"id":{"name":"mp_jogo","path":"rooms/mp_jogo/mp_jogo.yy",},},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
+    {"id":{"name":"spr_clt","path":"sprites/spr_clt/spr_clt.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
   ],
   "resourceType":"GMProject",
