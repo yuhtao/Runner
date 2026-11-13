@@ -35,12 +35,13 @@
   },
   "name":"Runner",
   "resources":[
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"mp_jogo","path":"rooms/mp_jogo/mp_jogo.yy",},},
+    {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"mp_jogo","path":"rooms/mp_jogo/mp_jogo.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
