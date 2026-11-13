@@ -1,0 +1,1 @@
+//apertar pra esquerda ele vai para esquerda

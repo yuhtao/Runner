@@ -1,0 +1,1 @@
+// apertar pra direita ele vai para direita
