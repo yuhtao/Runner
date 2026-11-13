@@ -1,0 +1,1 @@
+draw_text(85, 10, "Score: "+ string(global.pontos))
